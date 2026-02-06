@@ -8,7 +8,7 @@ terraform {
 }
 
 provider "google" {
-  project = "uplifted-air-485115-i5"
+  project = "xxxxxxx" # replace with your project id
   region  = "us-east1"
   zone    = "us-east1-b"
 }
