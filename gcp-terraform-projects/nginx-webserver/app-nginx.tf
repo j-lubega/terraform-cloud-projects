@@ -1,5 +1,5 @@
 provider "google" {
-  project = "uplifted-air-485115-i5"
+  project = "xxxxxxx" # Replace with your project ID
   region  = "us-east1"
   zone    = "us-east1-b"
 }
